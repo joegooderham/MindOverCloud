@@ -13,3 +13,13 @@ then adopting the services in scope for transformation.
 
 The purpose of my Github Repo is to provide a Wiki for both useful links, code bases and community driven discussions around common Azure deliverables. By opening up my knowledge to the Community, I welcome learning opportunities and collaboration.
 I have a real passion for Detail especially around Cloud document so feel free to comment on anything and everything!
+
+As you saw by the Title of this Page - MindOverCloud. To me, a common issue for Engineers moving into the Azure Consulting Space or even during Customer engagements is that assumption that Azure is just like any other Cloud Provider and how you approach a Project is rinse and repeat. Now for some of the Technical items such as an Azure Landing Zone this is definitely true in some elements/circumstances but to really deliver a great piece of work and engagement to a Customer, something I struggled with and am always actively developing, is a Consultant mindset approach to leading engagements and overall delivery of the solution. 
+
+Therefore in this Blog, I'm going to include my approach and steps to being a Consultant. This is a very subjective comment and other people will have different takes on it, so do not take my advice as gospel as you will cater it to your ways of 
+working however it is Community driven page and I really do welcome comments and discussions around this topic and if you have any pointers, do share!
+
+Anyway, hope this page helps you solve an issue, give you tips on being 1% a better Consultant or helps you with a nifty script to deploy a resource.
+
+All the best,
+Joseph
